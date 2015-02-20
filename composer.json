@@ -1,5 +1,5 @@
 {
-  "name": "Four026/passphrase",
+  "name": "four026/passphrase",
   "type": "library",
   "description": "A human-memorisable passphrase generator",
   "keywords": ["password","passphrase","generator","xkcd"],
